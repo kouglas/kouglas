@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🪬, I'm Kari</h1>
 <h3 align="center">A frontend developer from the USA</h3>
 
-- 🌱 I’m currently learning **svelte**
+- 🌱 I’m currently learning **svelte, arduino, python**
 
 - 👨‍💻 See some of my available projects here [kouglas-site.web.app](kouglas-site.web.app)
 
