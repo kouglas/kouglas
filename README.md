@@ -5,7 +5,7 @@
 
 - 👨‍💻 See some of my available projects here [kouglas-site.web.app](kouglas-site.web.app)
 
-- 💬 Ask me about **html, css, javascript, react**
+- 💬 Ask me about **html, css, javascript, react, or machine learning**
 
 - 📫 How to reach me **kouglas2@gmail.com**
 
