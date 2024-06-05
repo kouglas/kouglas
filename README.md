@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **svelte, arduino, python**
 
-- 👨‍💻 See some of my available projects here [kouglas-site.web.app](kouglas-site.web.app)
+- 👨‍💻 See some of my available projects here [kouglas-site.web.app](https://kouglas-site.web.app/)
 
 - 💬 Ask me about **html, css, javascript, react, react-native, or machine learning**
 
