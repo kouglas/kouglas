@@ -1,11 +1,11 @@
 <h1 align="center">Hi 🪬, I'm Kari</h1>
 <h3 align="center">A software engineer from the USA</h3>
 
-- 🌱 I’m currently learning **svelte, arduino, python**
+- 🌱 I’m currently learning **swift, arduino, kotlin**
 
 - 👨‍💻 See some of my available projects here [kouglas-site.web.app](https://kouglas-site.web.app/)
 
-- 💬 Ask me about **html, css, javascript, react, react-native, or machine learning**
+- 💬 Ask me about **ios, javascript, react, react-native, or machine learning**
 
 - 📫 How to reach me **kouglas2@gmail.com**
 
