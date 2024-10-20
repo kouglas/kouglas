@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🪬, I'm Kari</h1>
 <h3 align="center">A software engineer from the USA</h3>
 
-- 🌱 I’m currently learning **swift, arduino, kotlin**
+- 🌱 I’m currently learning **kotlin**
 
 - 👨‍💻 See some of my available projects here [kouglas-site.web.app](https://kouglas-site.web.app/)
 
