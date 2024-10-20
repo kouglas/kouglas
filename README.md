@@ -5,7 +5,7 @@
 
 - 👨‍💻 See some of my available projects here [kouglas-site.web.app](https://kouglas-site.web.app/)
 
-- 💬 Ask me about **ios, javascript, react, react-native, or machine learning**
+- 💬 Ask me about **swift, javascript, react, react-native, or machine learning**
 
 - 📫 How to reach me **kouglas2@gmail.com**
 
