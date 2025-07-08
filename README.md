@@ -3,9 +3,9 @@
 
 <!-- - 🌱 I’m currently learning -->
 
-- 💬 Ask me about **swift, javascript, or machine learning**
+- 💬 Ask me about **swift,or machine learning**
 
-- 📫 How to reach me **kodwithkari@gmail.com**
+- 📫 How to reach me **kodewithkari@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
