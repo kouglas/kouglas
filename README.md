@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **swift, javascript, or machine learning**
 
-- 📫 How to reach me **kouglas2@gmail.com**
+- 📫 How to reach me **kodwithkari@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
