@@ -23,7 +23,7 @@
           
 
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kouglas&show_icons=true&locale=en&layout=compact" alt="kouglas" /> </p> 
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kouglas&show_icons=true&locale=en" alt="kouglas" /> </p> 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kouglas&show_icons=true&locale=en" alt="kouglas" /></p> -->
 
