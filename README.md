@@ -21,8 +21,9 @@
                       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
            <a> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
           
+<h3 align="center">Most Recent Release</h3>
 
-
+<img width="1152" height="792" alt="Screenshot 2026-01-14 at 12 32 55 PM" src="https://github.com/user-attachments/assets/dd284ebb-3f77-4920-9a1e-a1d3a8a13f5d" />
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kouglas&show_icons=true&locale=en&layout=compact" alt="kouglas" /> </p> 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kouglas&show_icons=true&locale=en&layout=compact" alt="kouglas" /></p> -->
