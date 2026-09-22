@@ -6,6 +6,7 @@
 - 💬 Ask me about **swift, or machine learning**
 
 - 📫 How to reach me **kodewithkari@gmail.com**
+- 🛠️ Worked on: DockWatch, night stand explore (app store)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
